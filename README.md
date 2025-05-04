@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning HTML5
 - 💞️ I’m looking to collaborate on anything I can 
 - 📫 How to reach throught github itself
-- 😄 Pronouns: he/she
 - ⚡ Fun fact: University Student
 
 <!---
